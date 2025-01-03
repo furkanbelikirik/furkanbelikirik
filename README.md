@@ -43,7 +43,7 @@ eğitimlerini ve sertifikalarını aldım.
 <br/>  
 
 
-## Tech Stack  
+## İlgilendiğim Dil ve Araçlar  
 <div align="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="75" /></a>  
 <a href="https://getbootstrap.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="75" /></a>  
