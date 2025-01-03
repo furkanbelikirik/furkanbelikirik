@@ -28,9 +28,7 @@ eğitimlerini ve sertifikalarını aldım.
 <br/>  
 
 
-## Hakkımda  
-<table><tr><td valign="top" width="50%">
-
+## Hakkımda
 - 🔭 Çoğunlukla **Front-End**, bazen **Back-End**  teknolojileriyle ilgileniyorum.  
   
 
@@ -42,23 +40,13 @@ eğitimlerini ve sertifikalarını aldım.
 
 - ⚡ Fun fact: Lise dönemlerimde *Webrafik* adında bir bloğum vardı ve [Youtube'a](https://www.youtube.com/user/furkanbelikirik) *How-to* videoları çekiyordum.  
 
-
-</td><td valign="top" width="50%">
-
-<div align="center">
-<img src="https://lh3.googleusercontent.com/pw/AP1GczP30em2ZhRZvFBuVRy7Kd3SmXbg7zRYQiuQje3h64yzZTi-C_Vgcc2Z3yG05KErZT8hTmVi4Ov8_iBItncGQqGjpDhoFg4XJ2k8hf9EJ1MRICJivIR29FC0uKe_M2bbzMr7_jsXI70LHQr7koWQDre7=w683-h911-s-no-gm?authuser=0" align="center" height="400" width="300" />
-</div>  
-
-
-</td></tr></table>  
-
 <br/>  
 
 
 ## Tech Stack  
 <div align="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="75" /></a>  
-<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="75" /></a>  
+<a href="https://getbootstrap.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="75" /></a>  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="75" /></a>  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="75" /></a>  
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="75" /></a>  
